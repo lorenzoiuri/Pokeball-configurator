@@ -1,4 +1,4 @@
-# Report - Pokéball configurator
+# Pokéball configurator
 Authors: Nicolò Rossi, Lorenzo Iuri, Simone Mezzavilla
 
 <img src="https://raw.githubusercontent.com/lorenzoiuri/Pokeball-configurator/master/images/report/main.jpg" width="100%"> 
