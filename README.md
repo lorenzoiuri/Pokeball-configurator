@@ -1,6 +1,8 @@
 # Pokéball configurator
 Authors: Nicolò Rossi, Lorenzo Iuri, Simone Mezzavilla
 
+https://lorenzoiuri.github.io/Pokeball-configurator/
+
 <img src="https://raw.githubusercontent.com/lorenzoiuri/Pokeball-configurator/master/images/report/main.jpg" width="100%"> 
 
 **Disclaimer:** Pokéball is a registered trademarks of Nintendo of America, Inc., used under fair, non commercial, use.
